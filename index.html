@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Codificador e Decodificador</title>
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+
+    <body>
+        <header>
+            <div id="logo">
+                <h1><img src="./img/Logo.png" alt="Logo"></h1>
+            </div>
+        </header>
+        
+        
+            <div class="principal">
+                <textarea name="" id="texto" cols="30" rows="" placeholder="Digite um texto"></textarea>
+                <textarea name="" id="resultado" cols="30" rows="" readonly ></textarea>
+            </div>
+
+            
+           
+            <div class="botoes">
+                <button id="c" onclick="criptografar()">Criptografar</button>
+                <button id="d" onclick="descriptografar()">Descriptografar</button>
+                <button id="copiar" onclick="copiar()">Copiar</button>
+            </div>
+            
+        
+        
+    </body>
+    <script src="./js/index.js"></script>
+</html>
