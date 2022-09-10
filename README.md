@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://www.alura.com.br/challenges/oracle-one/sprint01-construa-decodificador-texto-com-javascript
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](![image](https://user-images.githubusercontent.com/84485936/189501953-3eeb54c3-933d-412e-ac57-263023dbb5ab.png))
 
 ## Detalhes do projeto
 
